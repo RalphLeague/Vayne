@@ -147,3 +147,7 @@ b, p, h1, h2  {
 	margin: auto !important;
 	pading: 4px !important;
 }
+
+input {
+	padding-top: 4px !important;
+}
