@@ -97,6 +97,7 @@ b, p, h1, h2  {
   outline: none;
   display: block;
   width: 100%;
+  max-width: 300px;
   margin: 0 0 20px;
   padding: 10px 15px;
   border: 1px solid #ccc;
