@@ -52,7 +52,7 @@ b, p, h1, h2  {
   display: block;
   width: 60% !important;
   max-width: 300px !important;
-  margin: 0 0 20px;
+  margin: auto;
   padding: 10px 15px;
   border: 1px solid #ccc;
   color: rgba(255, 255, 255, 0.9);
