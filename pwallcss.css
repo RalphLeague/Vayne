@@ -141,3 +141,8 @@ b, p, h1, h2  {
 .form button:hover {
   background: #27ae60;
 }
+
+.form-control {
+	max-width: 300px !important;
+	margin: auto !important;
+}
