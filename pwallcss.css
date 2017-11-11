@@ -96,7 +96,7 @@ b, p, h1, h2  {
 .form input {
   outline: none;
   display: block;
-  width: 100%;
+  width: 60%;
   max-width: 300px;
   margin: 0 0 20px;
   padding: 10px 15px;
