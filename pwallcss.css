@@ -93,6 +93,10 @@ b, p, h1, h2  {
   font-size: 18px;
   font-weight: 400;
 }
+input {
+  width: 60% !important;
+  max-width: 300px !important;
+}
 .form input {
   outline: none;
   display: block;
