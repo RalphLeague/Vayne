@@ -50,9 +50,8 @@ b, p, h1, h2  {
 .form3  {
   outline: none;
   display: block;
-  width: 60% !important;
-  max-width: 300px !important;
-  margin: auto;
+  width: 100%;
+  margin: 0 0 20px;
   padding: 10px 15px;
   border: 1px solid #ccc;
   color: rgba(255, 255, 255, 0.9);
@@ -93,10 +92,6 @@ b, p, h1, h2  {
   color: rgba(255, 255, 255, 0.9);
   font-size: 18px;
   font-weight: 400;
-}
-input {
-  width: 60% !important;
-  max-width: 300px !important;
 }
 .form input {
   outline: none;
